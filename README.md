@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arijitpaul0405
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in Android and Web Development
 - 💞️ I’m looking to collaborate on the same field
 - 📫 How to reach me - arijitpaul541@gmail.com
 
